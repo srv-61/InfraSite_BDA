@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CapsNet-Tensorflow
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](CONTRIBUTING.md)
@@ -109,3 +110,6 @@ val error | 0.36 | 0.36 | 0.41 |
 
 ### Reference
 - [XifengGuo/CapsNet-Keras](https://github.com/XifengGuo/CapsNet-Keras): referred for some code optimizations
+=======
+# InfraSite_BDA
+>>>>>>> 7dcd8d1794abfbc5dc9206d16168296902fc545b
